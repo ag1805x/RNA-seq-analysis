@@ -1,6 +1,10 @@
 #MyCodes
 
-This repository contain codes that I use to deal with day-to-day work. These codes are intended to ease the work.
+This is my first GITHUB repository.
+
+This repository contain codes that I use to deal with day-to-day work.
+
+These codes are intended to ease the work.
 
 
 
