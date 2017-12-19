@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use Cwd;
 
+
 #Command to align multiple RNAseq Single read data to the Reference Genome using HISAT2
 
 
