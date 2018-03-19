@@ -1,8 +1,8 @@
 #################################################
-#				                                    		#
+#                                               #
 # R script to sort genes according to gene type #
 #            		 -Arindam Ghosh (19 March 2018) #
-#						                                    #
+#                                               #
 #################################################
 # The input file is a *.tsv file as output of ballgown
 # DEG analysis in R and gene type for each gene attached
