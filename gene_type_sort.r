@@ -56,4 +56,4 @@ i=i+1
 
 result_write
 ##### EDIT FILE NAME HERE #####
-write.table(result_write, "result_count.tsv", sep = "\t", quote = FALSE, row.names = FALSE, append =TRUE)
+write.table(result_write, "result_count.tsv", sep = "\t", quote = FALSE, row.names = FALSE)
