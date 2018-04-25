@@ -2,8 +2,8 @@
 #                                               #
 # R script to create adjacency matrix from gene #
 # expression values to be used for creating     #
-# network	                                      #
-# 		 -Arindam Ghosh (25 April 2018)           #
+# network                                       #
+#      -Arindam Ghosh (25 April 2018)           #
 #                                               #
 #################################################
 
