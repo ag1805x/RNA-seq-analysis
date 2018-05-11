@@ -17,6 +17,8 @@ exp_data = read.csv("data.csv", header = TRUE, row.names= c(1))
 #Calculate Pearsons correlation between all genes
 corr = cor (t(exp_data), method="pearson")
 
+#Write correlation matrix to file
+write.csv(corr, "corr_matrix.csv", row.names = TRUE)
 
 #Keep backup of correlation values
 adj_matrx = corr
